@@ -1,5 +1,5 @@
 //your JS code here. If required.
-function mapletters(str){
+function mapLetters(str){
 	let ans={};
 	for(let i=0;i<str.length;i++){
 		const l = str[i];
