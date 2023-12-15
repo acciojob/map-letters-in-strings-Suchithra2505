@@ -2,11 +2,11 @@
 function mapletters(str){
 	let ans={};
 	for(let i=0;i<str.length;i++){
-		const l = str[i];
-		if(ans[l])
-			ans[l].push(i);
+		//const l = str[i];
+		if(ans["str[i]")
+			ans["str[i]"].push(i);
 		else
-			ans[l]=[i];
+			ans["str[i]"]=[i];
 	}
 	console.log(ans);
 }
